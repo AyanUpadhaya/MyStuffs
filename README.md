@@ -5,5 +5,5 @@ Hi I am Ayan Upadhaya from Bangladesh
 I started my coding journey in 2021.
 The programming language I am currently learning is Python.
 I am also interested in Jaavascript.
-My is to become a full stack web developer
+My goal is to become a full stack web developer
 You can contact me: ayanu881@gmail.com
