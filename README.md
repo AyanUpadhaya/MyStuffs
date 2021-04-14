@@ -1,2 +1,9 @@
 # MyStuffs
-All the programming's I do with python. The codes are about what I understand about codes...
+All the programming's I do with python. The codes are about what I understand about codes.
+
+Hi I am Ayan Upadhaya from Bangladesh
+I started my coding journey in 2021.
+The programming language I currently learning is Python.
+I am also interested in Jaavascript.
+My is to become a full stack web developer
+You can contact me: ayanu881@gmail.com
