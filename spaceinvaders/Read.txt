@@ -1,1 +1,2 @@
 Space invaders game built in turtle module python. In windows 10 enviroment.
+Turtle is a good module for beginners to learn game programming.
